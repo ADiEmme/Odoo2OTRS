@@ -8,6 +8,7 @@ It works in this way:
  - Will send an email to the customer with generated password and email
  
 The script has been wrote in python.
+NOTE: You must run it as root (root cron). Remember also to configure it correctly before use.
 
 To Do:
 - Disable auto commit of queries and activate it and do it at the end of the program. (Avoiding inserting errors)
