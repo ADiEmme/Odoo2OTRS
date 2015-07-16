@@ -8,3 +8,8 @@ It works in this way:
  - Will send an email to the customer with generated password and email
  
 The script has been wrote in python.
+
+To Do:
+- Disable auto commit of queries and activate it and do it at the end of the program. (Avoiding inserting errors)
+- Make it executable also as a user, not only as root
+- Optimize
